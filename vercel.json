@@ -13,3 +13,16 @@
       }
     ]
   }
+
+  {
+    "nome": "Any",
+    "senha": "471",
+    "email": "acsc8@aluno.ifnmg.edu.br"
+  }
+
+  {
+    "id": 1,
+    "nome": "Any2",
+    "senha": "848",
+    "email": "acsc8@aluno.ifnmg.edu.br"
+  }

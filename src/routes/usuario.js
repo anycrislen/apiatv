@@ -1,6 +1,6 @@
 //src/routes/usuario.js
 import { Router } from "express";
-import verificarAutenticacao from "../middlewares/autenticacao.js";
+import verificarAutenticacao from "../middleware/autenticacao.js";
 
 import {
   selectUsuario,
